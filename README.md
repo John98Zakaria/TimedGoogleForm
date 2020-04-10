@@ -5,4 +5,10 @@ Unfortunately the [Google API ClockTriggerBuilder](https://developers.google.com
 
 This little JavaScript code runs a dumb while loop to get the desired accuracy.
 
-# How to use ?
+## How to use ?
+ 1. Create a google form.
+ 2. Select the 3 vertical dots at the top right.
+ 3. Select <> Script Editor
+ 4. Paste the content of code.js into the page.
+ 5. Edit the 2 variables (form_open_time/form_close_time) at the top
+ 6. Run the function open_closeAt
