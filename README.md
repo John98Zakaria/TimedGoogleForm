@@ -12,3 +12,6 @@ This little JavaScript code runs a dumb while loop to get the desired accuracy.
  4. Paste the content of code.js into the page.
  5. Edit the 2 variables (form_open_time/form_close_time) at the top
  6. Run the function open_closeAt
+
+# Note : Google doesn't allow the execution of scripts for an extended period of time
+Please Run the Script 5 minutes before openening and closing the exam
